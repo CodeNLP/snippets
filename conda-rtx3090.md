@@ -9,3 +9,7 @@ conda activate sandbox3090
 ```bash
 conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
 ```
+
+```bash
+pip install transformers datasets sacrebleu wandb
+```
